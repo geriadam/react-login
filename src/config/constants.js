@@ -1,4 +1,4 @@
-export const PROD_URL    = 'http://laravelapiauth.geriblogger.com';
+export const PROD_URL    = 'https://laravelapiauth.geriblogger.com';
 export const API_URL     = '/api';
 export const URL_VERSION = '/v1'
 export const MERGE       = PROD_URL + API_URL + URL_VERSION;
