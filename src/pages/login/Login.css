@@ -1,0 +1,12 @@
+.Login {
+    width: 60%;
+    margin: auto;
+}
+
+.btn-login {
+    background: rgb(53, 104, 146) !important;
+}
+
+.btn-login:hover {
+    background: rgb(42, 83, 117) !important;
+}

@@ -1,0 +1,12 @@
+.Register {
+    width: 60%;
+    margin: auto;
+}
+
+.btn-register {
+    background: rgb(53, 104, 146);
+}
+
+.btn-register:hover {
+    background: rgb(42, 83, 117);
+}

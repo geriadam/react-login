@@ -1,0 +1,15 @@
+.Dashboard-Main {
+  background-image: url('../../assets/img/dashboard.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.dashboard-heading {
+  text-shadow: 2px 4px 5px #111;
+  color: #fff !important;
+}
+
+.dashboard-text {
+  text-shadow: 2px 4px 5px #111;
+  color: #fff !important;
+}
